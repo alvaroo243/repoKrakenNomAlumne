@@ -1,3 +1,5 @@
 Alvaro Gomez Molla
+(A) Benvinguda a la branca01 Alvaro
 (B) Modificació 01 Main Alvaro
 (D) Modificació 02 Main Alvaro
+(E) Afegim imatge a branca01 Alvaro
