@@ -4,3 +4,4 @@ Alvaro Gomez Molla
 (C) Benvinguda a la branca02 Alvaro
 (D) Modificació 02 Main Alvaro
 (E) Afegim imatge a branca01 Alvaro
+(F) Afegim imatge a branca02 Alvaro
